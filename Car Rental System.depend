@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1522779849 source:c:\users\admin\desktop\car rental system\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<iomanip>
+	<sstream>
+	"Color.h"
+
+1522518952 c:\users\admin\desktop\car rental system\color.h
+	<iostream>
+	<limits>
+	<windows.h>
+
+1532705051 source:c:\users\admin\desktop\project\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<iomanip>
+	<sstream>
+	"Color.h"
+
+1522808013 c:\users\admin\desktop\project\color.h
+	<iostream>
+	<limits>
+	<windows.h>
+
